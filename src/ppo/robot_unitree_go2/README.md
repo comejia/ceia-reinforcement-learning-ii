@@ -10,5 +10,5 @@ Pasos:
 3. Ejecutar en PC local el archivo evaluate.py (usando un venv o entorno virtual desde vscode, pycharm, etc.)
 4. El video renderizado quedara grabado en pocos segundos en la PC local.
 
-5. 
+   
 ![go2](robot_go2_01.png)
